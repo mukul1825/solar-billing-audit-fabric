@@ -1,0 +1,30 @@
+# Node.js dependencies and logs
+node_modules/
+**/node_modules/
+npm-debug.log*
+*.log
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+wallet/
+wallets/
+
+# Generated Fabric files and local ledger data
+fabric-samples/
+organizations/
+channel-artifacts/
+system-genesis-block/
+*.block
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+/solar-bill-chaincode.zip
