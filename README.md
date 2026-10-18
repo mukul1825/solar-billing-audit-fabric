@@ -77,3 +77,34 @@ solar-billing-audit-fabric/
 ├── LICENSE
 └── README.md
 
+## 8. Verification and Testing
+
+The Hyperledger Fabric test network was verified to be running, and the `solarbill` chaincode was confirmed as committed on `mychannel` (version 1.0, sequence 3).
+
+### Ledger Verification Results
+
+- Total solar billing records retrieved: 101.
+- Original dataset records: 100.
+- Additional test record: `TEST900001`.
+- Original dataset records with unique bill IDs: 100.
+- Audit status reported for all 100 dataset records: `MATCH`.
+- `VerifyBill` returned `billingFormulaMatches: true` and `integrityHashMatches: true` for `TEST900001`.
+- `GetBillHistory` successfully returned the transaction history for `TEST900001`.
+
+### Automated Integrity Tests
+
+The local Node.js test suite is located at `solar-bill-chaincode/test/integrity.test.js`.
+
+Run the tests with:
+
+```bash
+cd solar-bill-chaincode
+npm test
+```
+
+The current test suite contains two passing tests:
+
+1. Changing a bill amount produces a different SHA-256 integrity hash.
+2. An unchanged bill produces the same SHA-256 integrity hash.
+
+**Testing limitation:** These automated tests simulate hash comparisons locally. They do not yet demonstrate tampering detection against an altered record in the deployed Fabric ledger. All ledger verification results above reflect the records and audit statuses returned by the current chaincode.
