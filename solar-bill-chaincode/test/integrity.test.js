@@ -51,3 +51,41 @@ test('an unchanged bill produces the same integrity hash', () => {
 
   assert.equal(hashBill({ ...bill }), hashBill(bill));
 });
+
+const SolarBillContract = require('../lib/solarBillContract');
+
+test('VerifyBill detects a changed amount through its integrity hash', async () => {
+  const contract = new SolarBillContract();
+
+  const bill = {
+    billDate: '18/10/2026',
+    billId: 'TEST900002',
+    consumerId: 'TESTCON900002',
+    transactionId: 'TESTTX900002',
+    unitsGenerated: '100.00',
+    unitsConsumed: '120.00',
+    amountPayable: '219.40',
+    ratePerKWh: '10.97',
+  };
+
+  bill.expectedAmountPayable = '219.40';
+  bill.auditStatus = 'MATCH';
+  bill.integrityHash = contract._hashBill(bill);
+  bill.fabricTransactionId = 'TEST-FABRIC-TX';
+
+  const ctx = {
+    stub: {
+      createCompositeKey: () => 'test-key',
+      getState: async () => Buffer.from(JSON.stringify({
+        ...bill,
+        amountPayable: '999.99',
+      })),
+    },
+  };
+
+  const result = JSON.parse(await contract.VerifyBill(ctx, bill.billId));
+
+  assert.equal(result.billingFormulaMatches, false);
+  assert.equal(result.integrityHashMatches, false);
+  assert.equal(result.auditStatus, 'MISMATCH');
+});
