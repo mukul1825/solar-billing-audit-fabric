@@ -1,0 +1,96 @@
+{
+  "generatedAtUtc": "2026-10-22T10:16:43.065897+00:00",
+  "project": "Solar Bill Audit Using Hyperledger Fabric",
+  "evaluationType": "Offline analysis of existing reports; no new ledger transactions",
+  "existingCsvBenchmark": {
+    "ReadBill": {
+      "total_runs": 30,
+      "successful_runs": 30,
+      "failed_runs": 0,
+      "latency": {
+        "sample_count": 30,
+        "mean_ms": 81.697,
+        "median_ms": 79.987,
+        "p95_ms": 107.896,
+        "min_ms": 67.83,
+        "max_ms": 120.199
+      }
+    },
+    "VerifyBill": {
+      "total_runs": 30,
+      "successful_runs": 30,
+      "failed_runs": 0,
+      "latency": {
+        "sample_count": 30,
+        "mean_ms": 74.1,
+        "median_ms": 72.659,
+        "p95_ms": 82.441,
+        "min_ms": 64.806,
+        "max_ms": 93.013
+      }
+    }
+  },
+  "separateReadVerifyBenchmark": {
+    "reportedLedgerRecordsAtBenchmarkTime": 1001,
+    "sampleSizePerFunction": 50,
+    "ReadBill": {
+      "successes": 50,
+      "failures": 0,
+      "latency": {
+        "sample_count": 50,
+        "mean_ms": 81.207,
+        "median_ms": 78.846,
+        "p95_ms": 98.912,
+        "min_ms": 66.349,
+        "max_ms": 124.156
+      }
+    },
+    "VerifyBill": {
+      "successes": 50,
+      "failures": 0,
+      "latency": {
+        "sample_count": 50,
+        "mean_ms": 76.327,
+        "median_ms": 72.668,
+        "p95_ms": 93.548,
+        "min_ms": 65.344,
+        "max_ms": 107.678
+      }
+    }
+  },
+  "writeBenchmark": {
+    "successfulWrites": 5,
+    "attemptedOrPlannedWrites": 5,
+    "totalElapsedSeconds": 11.130822514999636,
+    "latency": {
+      "sample_count": 5,
+      "mean_ms": 2225.973,
+      "median_ms": 2219.366,
+      "p95_ms": 2278.581,
+      "min_ms": 2196.601,
+      "max_ms": 2278.581
+    },
+    "note": "Small preliminary sample; not a capacity or scalability claim."
+  },
+  "fullDatasetVerification": {
+    "recordsInReport": 1000,
+    "auditStatuses": {
+      "MATCH": 1000
+    },
+    "billingFormulaResults": {
+      "True": 1000
+    },
+    "integrityHashResults": {
+      "True": 1000
+    },
+    "issueCount": 0,
+    "allRecordsPassedRecordedChecks": true
+  },
+  "limitations": [
+    "The 1000-record report verifies the dataset records, not every record currently on the ledger.",
+    "The separate benchmark's reported ledger count is historical and predates the five benchmark writes.",
+    "CLI timings include command startup and are not pure chaincode execution latency.",
+    "Five writes are insufficient to establish reliable maximum throughput or scalability.",
+    "Integrity-hash checks demonstrate detection of changes against the expected hash; they do not prove resistance to every attack."
+  ]
+}

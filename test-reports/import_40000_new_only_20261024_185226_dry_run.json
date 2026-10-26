@@ -1,0 +1,11 @@
+{
+  "startedAt": "2026-10-24T18:52:26.798289",
+  "batchDirectory": "/home/system/fabric-project/solar-billing-audit-fabric/dataset/batches_40000_new_only_size250",
+  "expectedBatches": 160,
+  "expectedRecords": 40000,
+  "dryRun": true,
+  "status": "dry_run_passed",
+  "batches": [],
+  "validatedRecords": 40000,
+  "completedAt": "2026-10-24T18:52:27.176397"
+}

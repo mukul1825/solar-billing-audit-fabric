@@ -1,0 +1,22 @@
+{
+  "mode": "dry-run",
+  "startBatch": 7,
+  "endBatch": 7,
+  "startedAt": "2026-10-24T19:31:15.894571",
+  "results": [
+    {
+      "batch": 7,
+      "expected": 250,
+      "alreadyPresentBefore": 0,
+      "missingBefore": 250,
+      "queryErrorsBefore": 0,
+      "submitted": 0,
+      "verifiedPresentAfter": null,
+      "missingAfter": null,
+      "queryErrorsAfter": null,
+      "status": "DRY_RUN_WOULD_SUBMIT_MISSING"
+    }
+  ],
+  "updatedAt": "2026-10-24T19:31:35.332043",
+  "finishedAt": "2026-10-24T19:31:35.332014"
+}

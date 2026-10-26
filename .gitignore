@@ -28,3 +28,12 @@ Thumbs.db
 .vscode/
 .idea/
 /solar-bill-chaincode.zip
+
+# Local Python cache and temporary recovery copies
+__pycache__/
+*.py[cod]
+*.backup
+*.before_retry
+
+# Keep the oversized raw benchmark local; publish its compressed copy
+/benchmark/read_results_50006_ledger_bills.csv

@@ -1,0 +1,28 @@
+{
+  "dataset_bills_tested": 100,
+  "repeats_per_function_per_bill": 3,
+  "ledger_size_during_test": 1006,
+  "measurement": "CLI-observed query latency including process startup",
+  "results": {
+    "ReadBill": {
+      "total_calls": 300,
+      "successful_calls": 300,
+      "failed_calls": 0,
+      "failure_rate_percent": 0.0,
+      "mean_ms": 70.559,
+      "median_ms": 68.338,
+      "p95_ms": 80.239,
+      "throughput_successful_calls_per_second": 14.173
+    },
+    "VerifyBill": {
+      "total_calls": 300,
+      "successful_calls": 300,
+      "failed_calls": 0,
+      "failure_rate_percent": 0.0,
+      "mean_ms": 70.028,
+      "median_ms": 68.31,
+      "p95_ms": 78.807,
+      "throughput_successful_calls_per_second": 14.28
+    }
+  }
+}

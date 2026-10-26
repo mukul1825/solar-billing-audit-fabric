@@ -1,0 +1,7 @@
+{
+  "startedAt": "2026-10-24T06:53:33.338426",
+  "batches": [],
+  "status": "stopped_with_error",
+  "error": "28 bills remain missing after the attempt. Stopped without retrying. First IDs: 470595, 478514, 486433, 494352, 502271, 510190, 518109, 526028, 533947, 541866",
+  "stoppedAt": "2026-10-24T06:54:10.068056"
+}

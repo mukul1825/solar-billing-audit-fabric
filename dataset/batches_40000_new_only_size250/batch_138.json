@@ -1,0 +1,2502 @@
+[
+  {
+    "billDate": "25/10/2026",
+    "billId": "428095",
+    "consumerId": "326140",
+    "transactionId": "392071",
+    "unitsGenerated": "418.46",
+    "unitsConsumed": "425.70",
+    "amountPayable": "57.49",
+    "ratePerKWh": "7.94"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "436014",
+    "consumerId": "430869",
+    "transactionId": "577934",
+    "unitsGenerated": "163.97",
+    "unitsConsumed": "229.25",
+    "amountPayable": "690.01",
+    "ratePerKWh": "10.57"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "443933",
+    "consumerId": "535598",
+    "transactionId": "763797",
+    "unitsGenerated": "454.27",
+    "unitsConsumed": "128.90",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.87"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "451852",
+    "consumerId": "640327",
+    "transactionId": "949660",
+    "unitsGenerated": "490.73",
+    "unitsConsumed": "340.85",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.95"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "459771",
+    "consumerId": "745056",
+    "transactionId": "235523",
+    "unitsGenerated": "133.97",
+    "unitsConsumed": "100.91",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.93"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "467690",
+    "consumerId": "849785",
+    "transactionId": "421386",
+    "unitsGenerated": "248.50",
+    "unitsConsumed": "159.56",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.21"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "475609",
+    "consumerId": "954514",
+    "transactionId": "607249",
+    "unitsGenerated": "467.44",
+    "unitsConsumed": "345.84",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.00"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "483528",
+    "consumerId": "159243",
+    "transactionId": "793112",
+    "unitsGenerated": "231.60",
+    "unitsConsumed": "134.30",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.42"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "491447",
+    "consumerId": "263972",
+    "transactionId": "978975",
+    "unitsGenerated": "302.02",
+    "unitsConsumed": "197.40",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.57"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "499366",
+    "consumerId": "368701",
+    "transactionId": "264838",
+    "unitsGenerated": "203.35",
+    "unitsConsumed": "100.79",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.04"
+  },
+  {
+    "billDate": "22/10/2026",
+    "billId": "507285",
+    "consumerId": "473430",
+    "transactionId": "450701",
+    "unitsGenerated": "2.15",
+    "unitsConsumed": "383.40",
+    "amountPayable": "2897.50",
+    "ratePerKWh": "7.60"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "515204",
+    "consumerId": "578159",
+    "transactionId": "636564",
+    "unitsGenerated": "350.44",
+    "unitsConsumed": "186.68",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.05"
+  },
+  {
+    "billDate": "18/10/2026",
+    "billId": "523123",
+    "consumerId": "682888",
+    "transactionId": "822427",
+    "unitsGenerated": "9.72",
+    "unitsConsumed": "321.84",
+    "amountPayable": "2749.78",
+    "ratePerKWh": "8.81"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "531042",
+    "consumerId": "787617",
+    "transactionId": "108290",
+    "unitsGenerated": "207.71",
+    "unitsConsumed": "94.04",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.56"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "538961",
+    "consumerId": "892346",
+    "transactionId": "294153",
+    "unitsGenerated": "409.67",
+    "unitsConsumed": "171.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.12"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "546880",
+    "consumerId": "997075",
+    "transactionId": "480016",
+    "unitsGenerated": "170.26",
+    "unitsConsumed": "253.15",
+    "amountPayable": "534.64",
+    "ratePerKWh": "6.45"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "554799",
+    "consumerId": "201804",
+    "transactionId": "665879",
+    "unitsGenerated": "159.99",
+    "unitsConsumed": "362.14",
+    "amountPayable": "1912.34",
+    "ratePerKWh": "9.46"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "562718",
+    "consumerId": "306533",
+    "transactionId": "851742",
+    "unitsGenerated": "74.19",
+    "unitsConsumed": "59.98",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.27"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "570637",
+    "consumerId": "411262",
+    "transactionId": "137605",
+    "unitsGenerated": "355.87",
+    "unitsConsumed": "114.96",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.64"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "578556",
+    "consumerId": "515991",
+    "transactionId": "323468",
+    "unitsGenerated": "391.79",
+    "unitsConsumed": "410.11",
+    "amountPayable": "200.97",
+    "ratePerKWh": "10.97"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "586475",
+    "consumerId": "620720",
+    "transactionId": "509331",
+    "unitsGenerated": "299.78",
+    "unitsConsumed": "66.49",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.61"
+  },
+  {
+    "billDate": "10/10/2026",
+    "billId": "594394",
+    "consumerId": "725449",
+    "transactionId": "695194",
+    "unitsGenerated": "216.78",
+    "unitsConsumed": "136.82",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.51"
+  },
+  {
+    "billDate": "24/10/2026",
+    "billId": "602313",
+    "consumerId": "830178",
+    "transactionId": "881057",
+    "unitsGenerated": "97.44",
+    "unitsConsumed": "135.99",
+    "amountPayable": "278.72",
+    "ratePerKWh": "7.23"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "610232",
+    "consumerId": "934907",
+    "transactionId": "166920",
+    "unitsGenerated": "455.84",
+    "unitsConsumed": "447.67",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.98"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "618151",
+    "consumerId": "139636",
+    "transactionId": "352783",
+    "unitsGenerated": "97.61",
+    "unitsConsumed": "216.48",
+    "amountPayable": "1094.79",
+    "ratePerKWh": "9.21"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "626070",
+    "consumerId": "244365",
+    "transactionId": "538646",
+    "unitsGenerated": "456.06",
+    "unitsConsumed": "448.74",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.77"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "633989",
+    "consumerId": "349094",
+    "transactionId": "724509",
+    "unitsGenerated": "340.65",
+    "unitsConsumed": "63.75",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.17"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "641908",
+    "consumerId": "453823",
+    "transactionId": "910372",
+    "unitsGenerated": "355.35",
+    "unitsConsumed": "78.67",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.87"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "649827",
+    "consumerId": "558552",
+    "transactionId": "196235",
+    "unitsGenerated": "176.31",
+    "unitsConsumed": "170.02",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.90"
+  },
+  {
+    "billDate": "24/10/2026",
+    "billId": "657746",
+    "consumerId": "663281",
+    "transactionId": "382098",
+    "unitsGenerated": "107.29",
+    "unitsConsumed": "228.15",
+    "amountPayable": "1247.28",
+    "ratePerKWh": "10.32"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "665665",
+    "consumerId": "768010",
+    "transactionId": "567961",
+    "unitsGenerated": "14.65",
+    "unitsConsumed": "55.87",
+    "amountPayable": "268.75",
+    "ratePerKWh": "6.52"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "673584",
+    "consumerId": "872739",
+    "transactionId": "753824",
+    "unitsGenerated": "424.48",
+    "unitsConsumed": "248.68",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.62"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "681503",
+    "consumerId": "977468",
+    "transactionId": "939687",
+    "unitsGenerated": "453.88",
+    "unitsConsumed": "131.54",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.42"
+  },
+  {
+    "billDate": "21/10/2026",
+    "billId": "689422",
+    "consumerId": "182197",
+    "transactionId": "225550",
+    "unitsGenerated": "217.53",
+    "unitsConsumed": "404.40",
+    "amountPayable": "1556.63",
+    "ratePerKWh": "8.33"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "697341",
+    "consumerId": "286926",
+    "transactionId": "411413",
+    "unitsGenerated": "147.24",
+    "unitsConsumed": "435.62",
+    "amountPayable": "3025.11",
+    "ratePerKWh": "10.49"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "705260",
+    "consumerId": "391655",
+    "transactionId": "597276",
+    "unitsGenerated": "2.25",
+    "unitsConsumed": "364.48",
+    "amountPayable": "3473.79",
+    "ratePerKWh": "9.59"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "713179",
+    "consumerId": "496384",
+    "transactionId": "783139",
+    "unitsGenerated": "422.22",
+    "unitsConsumed": "257.48",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.05"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "721098",
+    "consumerId": "601113",
+    "transactionId": "969002",
+    "unitsGenerated": "314.76",
+    "unitsConsumed": "174.66",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.90"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "729017",
+    "consumerId": "705842",
+    "transactionId": "254865",
+    "unitsGenerated": "200.99",
+    "unitsConsumed": "262.43",
+    "amountPayable": "478.62",
+    "ratePerKWh": "7.79"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "736936",
+    "consumerId": "810571",
+    "transactionId": "440728",
+    "unitsGenerated": "261.54",
+    "unitsConsumed": "353.52",
+    "amountPayable": "837.02",
+    "ratePerKWh": "9.10"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "744855",
+    "consumerId": "915300",
+    "transactionId": "626591",
+    "unitsGenerated": "427.14",
+    "unitsConsumed": "236.45",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.47"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "752774",
+    "consumerId": "120029",
+    "transactionId": "812454",
+    "unitsGenerated": "23.05",
+    "unitsConsumed": "404.04",
+    "amountPayable": "2232.60",
+    "ratePerKWh": "5.86"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "760693",
+    "consumerId": "224758",
+    "transactionId": "998317",
+    "unitsGenerated": "334.21",
+    "unitsConsumed": "159.41",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.87"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "768612",
+    "consumerId": "329487",
+    "transactionId": "284180",
+    "unitsGenerated": "50.27",
+    "unitsConsumed": "153.56",
+    "amountPayable": "707.54",
+    "ratePerKWh": "6.85"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "776531",
+    "consumerId": "434216",
+    "transactionId": "470043",
+    "unitsGenerated": "465.28",
+    "unitsConsumed": "329.66",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.93"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "784450",
+    "consumerId": "538945",
+    "transactionId": "655906",
+    "unitsGenerated": "399.51",
+    "unitsConsumed": "221.80",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.33"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "792369",
+    "consumerId": "643674",
+    "transactionId": "841769",
+    "unitsGenerated": "125.21",
+    "unitsConsumed": "230.97",
+    "amountPayable": "777.34",
+    "ratePerKWh": "7.35"
+  },
+  {
+    "billDate": "15/10/2026",
+    "billId": "800288",
+    "consumerId": "748403",
+    "transactionId": "127632",
+    "unitsGenerated": "98.14",
+    "unitsConsumed": "446.02",
+    "amountPayable": "3395.31",
+    "ratePerKWh": "9.76"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "808207",
+    "consumerId": "853132",
+    "transactionId": "313495",
+    "unitsGenerated": "486.62",
+    "unitsConsumed": "303.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.92"
+  },
+  {
+    "billDate": "23/10/2026",
+    "billId": "816126",
+    "consumerId": "957861",
+    "transactionId": "499358",
+    "unitsGenerated": "403.08",
+    "unitsConsumed": "230.45",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.26"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "824045",
+    "consumerId": "162590",
+    "transactionId": "685221",
+    "unitsGenerated": "471.66",
+    "unitsConsumed": "158.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.52"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "831964",
+    "consumerId": "267319",
+    "transactionId": "871084",
+    "unitsGenerated": "409.07",
+    "unitsConsumed": "212.39",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.46"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "839883",
+    "consumerId": "372048",
+    "transactionId": "156947",
+    "unitsGenerated": "383.14",
+    "unitsConsumed": "278.77",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.90"
+  },
+  {
+    "billDate": "06/10/2026",
+    "billId": "847802",
+    "consumerId": "476777",
+    "transactionId": "342810",
+    "unitsGenerated": "232.96",
+    "unitsConsumed": "94.47",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.80"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "855721",
+    "consumerId": "581506",
+    "transactionId": "528673",
+    "unitsGenerated": "265.50",
+    "unitsConsumed": "140.30",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.54"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "863640",
+    "consumerId": "686235",
+    "transactionId": "714536",
+    "unitsGenerated": "443.18",
+    "unitsConsumed": "320.20",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.81"
+  },
+  {
+    "billDate": "06/10/2026",
+    "billId": "871559",
+    "consumerId": "790964",
+    "transactionId": "900399",
+    "unitsGenerated": "253.73",
+    "unitsConsumed": "357.87",
+    "amountPayable": "697.74",
+    "ratePerKWh": "6.70"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "879478",
+    "consumerId": "895693",
+    "transactionId": "186262",
+    "unitsGenerated": "180.15",
+    "unitsConsumed": "441.88",
+    "amountPayable": "2148.80",
+    "ratePerKWh": "8.21"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "887397",
+    "consumerId": "100422",
+    "transactionId": "372125",
+    "unitsGenerated": "101.99",
+    "unitsConsumed": "185.45",
+    "amountPayable": "650.15",
+    "ratePerKWh": "7.79"
+  },
+  {
+    "billDate": "15/10/2026",
+    "billId": "895316",
+    "consumerId": "205151",
+    "transactionId": "557988",
+    "unitsGenerated": "219.37",
+    "unitsConsumed": "249.76",
+    "amountPayable": "290.53",
+    "ratePerKWh": "9.56"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "903235",
+    "consumerId": "309880",
+    "transactionId": "743851",
+    "unitsGenerated": "41.91",
+    "unitsConsumed": "438.98",
+    "amountPayable": "4069.97",
+    "ratePerKWh": "10.25"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "911154",
+    "consumerId": "414609",
+    "transactionId": "929714",
+    "unitsGenerated": "221.66",
+    "unitsConsumed": "434.27",
+    "amountPayable": "1826.32",
+    "ratePerKWh": "8.59"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "919073",
+    "consumerId": "519338",
+    "transactionId": "215577",
+    "unitsGenerated": "144.04",
+    "unitsConsumed": "215.72",
+    "amountPayable": "588.49",
+    "ratePerKWh": "8.21"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "926992",
+    "consumerId": "624067",
+    "transactionId": "401440",
+    "unitsGenerated": "210.77",
+    "unitsConsumed": "328.29",
+    "amountPayable": "1075.31",
+    "ratePerKWh": "9.15"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "934911",
+    "consumerId": "728796",
+    "transactionId": "587303",
+    "unitsGenerated": "9.06",
+    "unitsConsumed": "433.90",
+    "amountPayable": "2680.74",
+    "ratePerKWh": "6.31"
+  },
+  {
+    "billDate": "15/10/2026",
+    "billId": "942830",
+    "consumerId": "833525",
+    "transactionId": "773166",
+    "unitsGenerated": "185.87",
+    "unitsConsumed": "60.60",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.08"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "950749",
+    "consumerId": "938254",
+    "transactionId": "959029",
+    "unitsGenerated": "58.03",
+    "unitsConsumed": "112.81",
+    "amountPayable": "597.65",
+    "ratePerKWh": "10.91"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "958668",
+    "consumerId": "142983",
+    "transactionId": "244892",
+    "unitsGenerated": "328.00",
+    "unitsConsumed": "258.62",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.47"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "966587",
+    "consumerId": "247712",
+    "transactionId": "430755",
+    "unitsGenerated": "205.32",
+    "unitsConsumed": "94.47",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.47"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "974506",
+    "consumerId": "352441",
+    "transactionId": "616618",
+    "unitsGenerated": "213.14",
+    "unitsConsumed": "203.46",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.83"
+  },
+  {
+    "billDate": "22/10/2026",
+    "billId": "982425",
+    "consumerId": "457170",
+    "transactionId": "802481",
+    "unitsGenerated": "401.81",
+    "unitsConsumed": "326.74",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.03"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "990344",
+    "consumerId": "561899",
+    "transactionId": "988344",
+    "unitsGenerated": "77.54",
+    "unitsConsumed": "379.56",
+    "amountPayable": "2935.63",
+    "ratePerKWh": "9.72"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "998263",
+    "consumerId": "666628",
+    "transactionId": "274207",
+    "unitsGenerated": "393.47",
+    "unitsConsumed": "171.21",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.02"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "106182",
+    "consumerId": "771357",
+    "transactionId": "460070",
+    "unitsGenerated": "413.67",
+    "unitsConsumed": "193.99",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.67"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "114101",
+    "consumerId": "876086",
+    "transactionId": "645933",
+    "unitsGenerated": "120.24",
+    "unitsConsumed": "208.90",
+    "amountPayable": "471.67",
+    "ratePerKWh": "5.32"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "122020",
+    "consumerId": "980815",
+    "transactionId": "831796",
+    "unitsGenerated": "490.17",
+    "unitsConsumed": "429.52",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.50"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "129939",
+    "consumerId": "185544",
+    "transactionId": "117659",
+    "unitsGenerated": "92.41",
+    "unitsConsumed": "137.95",
+    "amountPayable": "468.15",
+    "ratePerKWh": "10.28"
+  },
+  {
+    "billDate": "22/10/2026",
+    "billId": "137858",
+    "consumerId": "290273",
+    "transactionId": "303522",
+    "unitsGenerated": "5.25",
+    "unitsConsumed": "265.41",
+    "amountPayable": "1888.76",
+    "ratePerKWh": "7.26"
+  },
+  {
+    "billDate": "10/10/2026",
+    "billId": "145777",
+    "consumerId": "395002",
+    "transactionId": "489385",
+    "unitsGenerated": "297.25",
+    "unitsConsumed": "278.46",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.21"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "153696",
+    "consumerId": "499731",
+    "transactionId": "675248",
+    "unitsGenerated": "204.06",
+    "unitsConsumed": "262.43",
+    "amountPayable": "643.24",
+    "ratePerKWh": "11.02"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "161615",
+    "consumerId": "604460",
+    "transactionId": "861111",
+    "unitsGenerated": "461.01",
+    "unitsConsumed": "386.71",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.54"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "169534",
+    "consumerId": "709189",
+    "transactionId": "146974",
+    "unitsGenerated": "415.31",
+    "unitsConsumed": "263.32",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.94"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "177453",
+    "consumerId": "813918",
+    "transactionId": "332837",
+    "unitsGenerated": "0.70",
+    "unitsConsumed": "225.53",
+    "amountPayable": "1893.07",
+    "ratePerKWh": "8.42"
+  },
+  {
+    "billDate": "06/10/2026",
+    "billId": "185372",
+    "consumerId": "918647",
+    "transactionId": "518700",
+    "unitsGenerated": "135.32",
+    "unitsConsumed": "279.69",
+    "amountPayable": "1448.03",
+    "ratePerKWh": "10.03"
+  },
+  {
+    "billDate": "24/10/2026",
+    "billId": "193291",
+    "consumerId": "123376",
+    "transactionId": "704563",
+    "unitsGenerated": "279.12",
+    "unitsConsumed": "275.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.05"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "201210",
+    "consumerId": "228105",
+    "transactionId": "890426",
+    "unitsGenerated": "268.71",
+    "unitsConsumed": "288.36",
+    "amountPayable": "188.05",
+    "ratePerKWh": "9.57"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "209129",
+    "consumerId": "332834",
+    "transactionId": "176289",
+    "unitsGenerated": "73.99",
+    "unitsConsumed": "238.40",
+    "amountPayable": "902.61",
+    "ratePerKWh": "5.49"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "217048",
+    "consumerId": "437563",
+    "transactionId": "362152",
+    "unitsGenerated": "249.62",
+    "unitsConsumed": "419.75",
+    "amountPayable": "1968.40",
+    "ratePerKWh": "11.57"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "224967",
+    "consumerId": "542292",
+    "transactionId": "548015",
+    "unitsGenerated": "46.93",
+    "unitsConsumed": "209.17",
+    "amountPayable": "1731.10",
+    "ratePerKWh": "10.67"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "232886",
+    "consumerId": "647021",
+    "transactionId": "733878",
+    "unitsGenerated": "361.61",
+    "unitsConsumed": "379.17",
+    "amountPayable": "146.63",
+    "ratePerKWh": "8.35"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "240805",
+    "consumerId": "751750",
+    "transactionId": "919741",
+    "unitsGenerated": "10.78",
+    "unitsConsumed": "394.31",
+    "amountPayable": "3942.69",
+    "ratePerKWh": "10.28"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "248724",
+    "consumerId": "856479",
+    "transactionId": "205604",
+    "unitsGenerated": "488.76",
+    "unitsConsumed": "274.18",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.09"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "256643",
+    "consumerId": "961208",
+    "transactionId": "391467",
+    "unitsGenerated": "219.15",
+    "unitsConsumed": "190.02",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.64"
+  },
+  {
+    "billDate": "21/10/2026",
+    "billId": "264562",
+    "consumerId": "165937",
+    "transactionId": "577330",
+    "unitsGenerated": "41.24",
+    "unitsConsumed": "417.84",
+    "amountPayable": "3988.19",
+    "ratePerKWh": "10.59"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "272481",
+    "consumerId": "270666",
+    "transactionId": "763193",
+    "unitsGenerated": "19.60",
+    "unitsConsumed": "236.96",
+    "amountPayable": "1975.80",
+    "ratePerKWh": "9.09"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "280400",
+    "consumerId": "375395",
+    "transactionId": "949056",
+    "unitsGenerated": "223.97",
+    "unitsConsumed": "408.60",
+    "amountPayable": "1587.82",
+    "ratePerKWh": "8.60"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "288319",
+    "consumerId": "480124",
+    "transactionId": "234919",
+    "unitsGenerated": "27.03",
+    "unitsConsumed": "326.18",
+    "amountPayable": "2117.98",
+    "ratePerKWh": "7.08"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "296238",
+    "consumerId": "584853",
+    "transactionId": "420782",
+    "unitsGenerated": "38.33",
+    "unitsConsumed": "396.22",
+    "amountPayable": "2605.44",
+    "ratePerKWh": "7.28"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "304157",
+    "consumerId": "689582",
+    "transactionId": "606645",
+    "unitsGenerated": "120.50",
+    "unitsConsumed": "345.43",
+    "amountPayable": "2127.84",
+    "ratePerKWh": "9.46"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "312076",
+    "consumerId": "794311",
+    "transactionId": "792508",
+    "unitsGenerated": "494.31",
+    "unitsConsumed": "98.67",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.61"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "319995",
+    "consumerId": "899040",
+    "transactionId": "978371",
+    "unitsGenerated": "323.15",
+    "unitsConsumed": "358.92",
+    "amountPayable": "303.33",
+    "ratePerKWh": "8.48"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "327914",
+    "consumerId": "103769",
+    "transactionId": "264234",
+    "unitsGenerated": "238.41",
+    "unitsConsumed": "394.03",
+    "amountPayable": "1349.23",
+    "ratePerKWh": "8.67"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "335833",
+    "consumerId": "208498",
+    "transactionId": "450097",
+    "unitsGenerated": "136.42",
+    "unitsConsumed": "349.14",
+    "amountPayable": "2059.13",
+    "ratePerKWh": "9.68"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "343752",
+    "consumerId": "313227",
+    "transactionId": "635960",
+    "unitsGenerated": "433.94",
+    "unitsConsumed": "51.43",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.07"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "351671",
+    "consumerId": "417956",
+    "transactionId": "821823",
+    "unitsGenerated": "230.90",
+    "unitsConsumed": "78.34",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.42"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "359590",
+    "consumerId": "522685",
+    "transactionId": "107686",
+    "unitsGenerated": "495.29",
+    "unitsConsumed": "399.32",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.08"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "367509",
+    "consumerId": "627414",
+    "transactionId": "293549",
+    "unitsGenerated": "350.07",
+    "unitsConsumed": "334.02",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.48"
+  },
+  {
+    "billDate": "18/10/2026",
+    "billId": "375428",
+    "consumerId": "732143",
+    "transactionId": "479412",
+    "unitsGenerated": "421.44",
+    "unitsConsumed": "428.88",
+    "amountPayable": "82.14",
+    "ratePerKWh": "11.04"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "383347",
+    "consumerId": "836872",
+    "transactionId": "665275",
+    "unitsGenerated": "273.80",
+    "unitsConsumed": "339.52",
+    "amountPayable": "433.09",
+    "ratePerKWh": "6.59"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "391266",
+    "consumerId": "941601",
+    "transactionId": "851138",
+    "unitsGenerated": "42.68",
+    "unitsConsumed": "168.70",
+    "amountPayable": "835.51",
+    "ratePerKWh": "6.63"
+  },
+  {
+    "billDate": "21/10/2026",
+    "billId": "399185",
+    "consumerId": "146330",
+    "transactionId": "137001",
+    "unitsGenerated": "43.08",
+    "unitsConsumed": "365.23",
+    "amountPayable": "3050.76",
+    "ratePerKWh": "9.47"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "407104",
+    "consumerId": "251059",
+    "transactionId": "322864",
+    "unitsGenerated": "428.72",
+    "unitsConsumed": "409.71",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.25"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "415023",
+    "consumerId": "355788",
+    "transactionId": "508727",
+    "unitsGenerated": "40.56",
+    "unitsConsumed": "224.31",
+    "amountPayable": "959.18",
+    "ratePerKWh": "5.22"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "422942",
+    "consumerId": "460517",
+    "transactionId": "694590",
+    "unitsGenerated": "252.94",
+    "unitsConsumed": "368.49",
+    "amountPayable": "821.56",
+    "ratePerKWh": "7.11"
+  },
+  {
+    "billDate": "18/10/2026",
+    "billId": "430861",
+    "consumerId": "565246",
+    "transactionId": "880453",
+    "unitsGenerated": "451.55",
+    "unitsConsumed": "317.05",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.85"
+  },
+  {
+    "billDate": "24/10/2026",
+    "billId": "438780",
+    "consumerId": "669975",
+    "transactionId": "166316",
+    "unitsGenerated": "161.71",
+    "unitsConsumed": "324.99",
+    "amountPayable": "1799.35",
+    "ratePerKWh": "11.02"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "446699",
+    "consumerId": "774704",
+    "transactionId": "352179",
+    "unitsGenerated": "207.54",
+    "unitsConsumed": "382.75",
+    "amountPayable": "1061.77",
+    "ratePerKWh": "6.06"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "454618",
+    "consumerId": "879433",
+    "transactionId": "538042",
+    "unitsGenerated": "65.35",
+    "unitsConsumed": "324.10",
+    "amountPayable": "1309.28",
+    "ratePerKWh": "5.06"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "462537",
+    "consumerId": "984162",
+    "transactionId": "723905",
+    "unitsGenerated": "127.27",
+    "unitsConsumed": "60.69",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.24"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "470456",
+    "consumerId": "188891",
+    "transactionId": "909768",
+    "unitsGenerated": "196.23",
+    "unitsConsumed": "231.47",
+    "amountPayable": "416.18",
+    "ratePerKWh": "11.81"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "478375",
+    "consumerId": "293620",
+    "transactionId": "195631",
+    "unitsGenerated": "110.46",
+    "unitsConsumed": "313.39",
+    "amountPayable": "1986.68",
+    "ratePerKWh": "9.79"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "486294",
+    "consumerId": "398349",
+    "transactionId": "381494",
+    "unitsGenerated": "113.37",
+    "unitsConsumed": "62.23",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.86"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "494213",
+    "consumerId": "503078",
+    "transactionId": "567357",
+    "unitsGenerated": "441.14",
+    "unitsConsumed": "52.61",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.01"
+  },
+  {
+    "billDate": "22/10/2026",
+    "billId": "502132",
+    "consumerId": "607807",
+    "transactionId": "753220",
+    "unitsGenerated": "58.99",
+    "unitsConsumed": "210.80",
+    "amountPayable": "1206.89",
+    "ratePerKWh": "7.95"
+  },
+  {
+    "billDate": "10/10/2026",
+    "billId": "510051",
+    "consumerId": "712536",
+    "transactionId": "939083",
+    "unitsGenerated": "449.35",
+    "unitsConsumed": "332.35",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.01"
+  },
+  {
+    "billDate": "15/10/2026",
+    "billId": "517970",
+    "consumerId": "817265",
+    "transactionId": "224946",
+    "unitsGenerated": "279.53",
+    "unitsConsumed": "148.49",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.69"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "525889",
+    "consumerId": "921994",
+    "transactionId": "410809",
+    "unitsGenerated": "116.63",
+    "unitsConsumed": "175.27",
+    "amountPayable": "367.09",
+    "ratePerKWh": "6.26"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "533808",
+    "consumerId": "126723",
+    "transactionId": "596672",
+    "unitsGenerated": "327.65",
+    "unitsConsumed": "276.99",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.28"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "541727",
+    "consumerId": "231452",
+    "transactionId": "782535",
+    "unitsGenerated": "467.51",
+    "unitsConsumed": "122.23",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.90"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "549646",
+    "consumerId": "336181",
+    "transactionId": "968398",
+    "unitsGenerated": "486.02",
+    "unitsConsumed": "176.61",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.57"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "557565",
+    "consumerId": "440910",
+    "transactionId": "254261",
+    "unitsGenerated": "457.28",
+    "unitsConsumed": "446.18",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.90"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "565484",
+    "consumerId": "545639",
+    "transactionId": "440124",
+    "unitsGenerated": "368.79",
+    "unitsConsumed": "428.03",
+    "amountPayable": "574.04",
+    "ratePerKWh": "9.69"
+  },
+  {
+    "billDate": "06/10/2026",
+    "billId": "573403",
+    "consumerId": "650368",
+    "transactionId": "625987",
+    "unitsGenerated": "453.26",
+    "unitsConsumed": "396.46",
+    "amountPayable": "0.00",
+    "ratePerKWh": "12.00"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "581322",
+    "consumerId": "755097",
+    "transactionId": "811850",
+    "unitsGenerated": "151.52",
+    "unitsConsumed": "218.92",
+    "amountPayable": "604.58",
+    "ratePerKWh": "8.97"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "589241",
+    "consumerId": "859826",
+    "transactionId": "997713",
+    "unitsGenerated": "243.33",
+    "unitsConsumed": "78.26",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.09"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "597160",
+    "consumerId": "964555",
+    "transactionId": "283576",
+    "unitsGenerated": "314.80",
+    "unitsConsumed": "419.96",
+    "amountPayable": "940.13",
+    "ratePerKWh": "8.94"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "605079",
+    "consumerId": "169284",
+    "transactionId": "469439",
+    "unitsGenerated": "248.07",
+    "unitsConsumed": "224.51",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.63"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "612998",
+    "consumerId": "274013",
+    "transactionId": "655302",
+    "unitsGenerated": "248.27",
+    "unitsConsumed": "81.16",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.63"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "620917",
+    "consumerId": "378742",
+    "transactionId": "841165",
+    "unitsGenerated": "149.71",
+    "unitsConsumed": "288.90",
+    "amountPayable": "1604.86",
+    "ratePerKWh": "11.53"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "628836",
+    "consumerId": "483471",
+    "transactionId": "127028",
+    "unitsGenerated": "114.36",
+    "unitsConsumed": "62.63",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.77"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "636755",
+    "consumerId": "588200",
+    "transactionId": "312891",
+    "unitsGenerated": "461.50",
+    "unitsConsumed": "296.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.73"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "644674",
+    "consumerId": "692929",
+    "transactionId": "498754",
+    "unitsGenerated": "351.04",
+    "unitsConsumed": "379.35",
+    "amountPayable": "326.98",
+    "ratePerKWh": "11.55"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "652593",
+    "consumerId": "797658",
+    "transactionId": "684617",
+    "unitsGenerated": "466.50",
+    "unitsConsumed": "235.76",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.78"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "660512",
+    "consumerId": "902387",
+    "transactionId": "870480",
+    "unitsGenerated": "321.66",
+    "unitsConsumed": "415.78",
+    "amountPayable": "1024.03",
+    "ratePerKWh": "10.88"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "668431",
+    "consumerId": "107116",
+    "transactionId": "156343",
+    "unitsGenerated": "112.19",
+    "unitsConsumed": "74.52",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.35"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "676350",
+    "consumerId": "211845",
+    "transactionId": "342206",
+    "unitsGenerated": "145.84",
+    "unitsConsumed": "254.16",
+    "amountPayable": "1074.53",
+    "ratePerKWh": "9.92"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "684269",
+    "consumerId": "316574",
+    "transactionId": "528069",
+    "unitsGenerated": "475.75",
+    "unitsConsumed": "317.65",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.48"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "692188",
+    "consumerId": "421303",
+    "transactionId": "713932",
+    "unitsGenerated": "211.28",
+    "unitsConsumed": "129.28",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.55"
+  },
+  {
+    "billDate": "10/10/2026",
+    "billId": "700107",
+    "consumerId": "526032",
+    "transactionId": "899795",
+    "unitsGenerated": "5.02",
+    "unitsConsumed": "189.12",
+    "amountPayable": "2174.22",
+    "ratePerKWh": "11.81"
+  },
+  {
+    "billDate": "21/10/2026",
+    "billId": "708026",
+    "consumerId": "630761",
+    "transactionId": "185658",
+    "unitsGenerated": "306.33",
+    "unitsConsumed": "345.79",
+    "amountPayable": "282.14",
+    "ratePerKWh": "7.15"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "715945",
+    "consumerId": "735490",
+    "transactionId": "371521",
+    "unitsGenerated": "56.64",
+    "unitsConsumed": "165.33",
+    "amountPayable": "1298.85",
+    "ratePerKWh": "11.95"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "723864",
+    "consumerId": "840219",
+    "transactionId": "557384",
+    "unitsGenerated": "306.12",
+    "unitsConsumed": "160.29",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.22"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "731783",
+    "consumerId": "944948",
+    "transactionId": "743247",
+    "unitsGenerated": "380.89",
+    "unitsConsumed": "384.77",
+    "amountPayable": "32.32",
+    "ratePerKWh": "8.33"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "739702",
+    "consumerId": "149677",
+    "transactionId": "929110",
+    "unitsGenerated": "242.50",
+    "unitsConsumed": "77.96",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.94"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "747621",
+    "consumerId": "254406",
+    "transactionId": "214973",
+    "unitsGenerated": "426.25",
+    "unitsConsumed": "205.22",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.33"
+  },
+  {
+    "billDate": "22/10/2026",
+    "billId": "755540",
+    "consumerId": "359135",
+    "transactionId": "400836",
+    "unitsGenerated": "434.74",
+    "unitsConsumed": "387.80",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.92"
+  },
+  {
+    "billDate": "21/10/2026",
+    "billId": "763459",
+    "consumerId": "463864",
+    "transactionId": "586699",
+    "unitsGenerated": "368.67",
+    "unitsConsumed": "150.67",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.33"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "771378",
+    "consumerId": "568593",
+    "transactionId": "772562",
+    "unitsGenerated": "259.27",
+    "unitsConsumed": "283.43",
+    "amountPayable": "224.45",
+    "ratePerKWh": "9.29"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "779297",
+    "consumerId": "673322",
+    "transactionId": "958425",
+    "unitsGenerated": "493.38",
+    "unitsConsumed": "423.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.73"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "787216",
+    "consumerId": "778051",
+    "transactionId": "244288",
+    "unitsGenerated": "70.00",
+    "unitsConsumed": "275.97",
+    "amountPayable": "2208.00",
+    "ratePerKWh": "10.72"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "795135",
+    "consumerId": "882780",
+    "transactionId": "430151",
+    "unitsGenerated": "116.58",
+    "unitsConsumed": "194.95",
+    "amountPayable": "485.11",
+    "ratePerKWh": "6.19"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "803054",
+    "consumerId": "987509",
+    "transactionId": "616014",
+    "unitsGenerated": "446.30",
+    "unitsConsumed": "65.40",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.83"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "810973",
+    "consumerId": "192238",
+    "transactionId": "801877",
+    "unitsGenerated": "424.96",
+    "unitsConsumed": "196.26",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.02"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "818892",
+    "consumerId": "296967",
+    "transactionId": "987740",
+    "unitsGenerated": "208.35",
+    "unitsConsumed": "334.11",
+    "amountPayable": "896.67",
+    "ratePerKWh": "7.13"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "826811",
+    "consumerId": "401696",
+    "transactionId": "273603",
+    "unitsGenerated": "434.10",
+    "unitsConsumed": "160.07",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.95"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "834730",
+    "consumerId": "506425",
+    "transactionId": "459466",
+    "unitsGenerated": "281.14",
+    "unitsConsumed": "166.01",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.92"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "842649",
+    "consumerId": "611154",
+    "transactionId": "645329",
+    "unitsGenerated": "210.70",
+    "unitsConsumed": "267.45",
+    "amountPayable": "515.29",
+    "ratePerKWh": "9.08"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "850568",
+    "consumerId": "715883",
+    "transactionId": "831192",
+    "unitsGenerated": "247.98",
+    "unitsConsumed": "277.64",
+    "amountPayable": "339.90",
+    "ratePerKWh": "11.46"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "858487",
+    "consumerId": "820612",
+    "transactionId": "117055",
+    "unitsGenerated": "434.64",
+    "unitsConsumed": "78.46",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.71"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "866406",
+    "consumerId": "925341",
+    "transactionId": "302918",
+    "unitsGenerated": "393.43",
+    "unitsConsumed": "150.74",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.50"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "874325",
+    "consumerId": "130070",
+    "transactionId": "488781",
+    "unitsGenerated": "115.08",
+    "unitsConsumed": "113.96",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.90"
+  },
+  {
+    "billDate": "23/10/2026",
+    "billId": "882244",
+    "consumerId": "234799",
+    "transactionId": "674644",
+    "unitsGenerated": "79.55",
+    "unitsConsumed": "200.75",
+    "amountPayable": "1038.68",
+    "ratePerKWh": "8.57"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "890163",
+    "consumerId": "339528",
+    "transactionId": "860507",
+    "unitsGenerated": "481.88",
+    "unitsConsumed": "288.02",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.17"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "898082",
+    "consumerId": "444257",
+    "transactionId": "146370",
+    "unitsGenerated": "454.98",
+    "unitsConsumed": "281.57",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.10"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "906001",
+    "consumerId": "548986",
+    "transactionId": "332233",
+    "unitsGenerated": "306.80",
+    "unitsConsumed": "421.17",
+    "amountPayable": "642.76",
+    "ratePerKWh": "5.62"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "913920",
+    "consumerId": "653715",
+    "transactionId": "518096",
+    "unitsGenerated": "175.43",
+    "unitsConsumed": "327.63",
+    "amountPayable": "1578.31",
+    "ratePerKWh": "10.37"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "921839",
+    "consumerId": "758444",
+    "transactionId": "703959",
+    "unitsGenerated": "113.05",
+    "unitsConsumed": "50.88",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.05"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "929758",
+    "consumerId": "863173",
+    "transactionId": "889822",
+    "unitsGenerated": "93.96",
+    "unitsConsumed": "384.51",
+    "amountPayable": "3245.44",
+    "ratePerKWh": "11.17"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "937677",
+    "consumerId": "967902",
+    "transactionId": "175685",
+    "unitsGenerated": "438.13",
+    "unitsConsumed": "302.84",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.83"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "945596",
+    "consumerId": "172631",
+    "transactionId": "361548",
+    "unitsGenerated": "311.60",
+    "unitsConsumed": "53.90",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.96"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "953515",
+    "consumerId": "277360",
+    "transactionId": "547411",
+    "unitsGenerated": "197.21",
+    "unitsConsumed": "146.53",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.61"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "961434",
+    "consumerId": "382089",
+    "transactionId": "733274",
+    "unitsGenerated": "68.45",
+    "unitsConsumed": "96.55",
+    "amountPayable": "271.45",
+    "ratePerKWh": "9.66"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "969353",
+    "consumerId": "486818",
+    "transactionId": "919137",
+    "unitsGenerated": "309.78",
+    "unitsConsumed": "224.27",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.13"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "977272",
+    "consumerId": "591547",
+    "transactionId": "205000",
+    "unitsGenerated": "456.65",
+    "unitsConsumed": "404.95",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.00"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "985191",
+    "consumerId": "696276",
+    "transactionId": "390863",
+    "unitsGenerated": "326.68",
+    "unitsConsumed": "294.22",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.99"
+  },
+  {
+    "billDate": "28/10/2026",
+    "billId": "993110",
+    "consumerId": "801005",
+    "transactionId": "576726",
+    "unitsGenerated": "438.33",
+    "unitsConsumed": "74.65",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.89"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "101029",
+    "consumerId": "905734",
+    "transactionId": "762589",
+    "unitsGenerated": "341.85",
+    "unitsConsumed": "251.56",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.13"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "108948",
+    "consumerId": "110463",
+    "transactionId": "948452",
+    "unitsGenerated": "30.99",
+    "unitsConsumed": "360.32",
+    "amountPayable": "3266.95",
+    "ratePerKWh": "9.92"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "116867",
+    "consumerId": "215192",
+    "transactionId": "234315",
+    "unitsGenerated": "456.40",
+    "unitsConsumed": "346.27",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.38"
+  },
+  {
+    "billDate": "11/10/2026",
+    "billId": "124786",
+    "consumerId": "319921",
+    "transactionId": "420178",
+    "unitsGenerated": "189.39",
+    "unitsConsumed": "430.57",
+    "amountPayable": "2122.38",
+    "ratePerKWh": "8.80"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "132705",
+    "consumerId": "424650",
+    "transactionId": "606041",
+    "unitsGenerated": "497.61",
+    "unitsConsumed": "409.64",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.87"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "140624",
+    "consumerId": "529379",
+    "transactionId": "791904",
+    "unitsGenerated": "481.55",
+    "unitsConsumed": "273.71",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.35"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "148543",
+    "consumerId": "634108",
+    "transactionId": "977767",
+    "unitsGenerated": "361.52",
+    "unitsConsumed": "94.65",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.08"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "156462",
+    "consumerId": "738837",
+    "transactionId": "263630",
+    "unitsGenerated": "264.11",
+    "unitsConsumed": "315.49",
+    "amountPayable": "592.41",
+    "ratePerKWh": "11.53"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "164381",
+    "consumerId": "843566",
+    "transactionId": "449493",
+    "unitsGenerated": "192.84",
+    "unitsConsumed": "291.64",
+    "amountPayable": "685.67",
+    "ratePerKWh": "6.94"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "172300",
+    "consumerId": "948295",
+    "transactionId": "635356",
+    "unitsGenerated": "409.33",
+    "unitsConsumed": "129.47",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.24"
+  },
+  {
+    "billDate": "10/10/2026",
+    "billId": "180219",
+    "consumerId": "153024",
+    "transactionId": "821219",
+    "unitsGenerated": "448.53",
+    "unitsConsumed": "392.92",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.87"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "188138",
+    "consumerId": "257753",
+    "transactionId": "107082",
+    "unitsGenerated": "345.78",
+    "unitsConsumed": "163.85",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.68"
+  },
+  {
+    "billDate": "23/10/2026",
+    "billId": "196057",
+    "consumerId": "362482",
+    "transactionId": "292945",
+    "unitsGenerated": "494.71",
+    "unitsConsumed": "345.81",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.20"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "203976",
+    "consumerId": "467211",
+    "transactionId": "478808",
+    "unitsGenerated": "300.71",
+    "unitsConsumed": "405.98",
+    "amountPayable": "1141.13",
+    "ratePerKWh": "10.84"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "211895",
+    "consumerId": "571940",
+    "transactionId": "664671",
+    "unitsGenerated": "213.08",
+    "unitsConsumed": "86.80",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.75"
+  },
+  {
+    "billDate": "15/10/2026",
+    "billId": "219814",
+    "consumerId": "676669",
+    "transactionId": "850534",
+    "unitsGenerated": "155.95",
+    "unitsConsumed": "171.17",
+    "amountPayable": "131.50",
+    "ratePerKWh": "8.64"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "227733",
+    "consumerId": "781398",
+    "transactionId": "136397",
+    "unitsGenerated": "468.89",
+    "unitsConsumed": "184.23",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.46"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "235652",
+    "consumerId": "886127",
+    "transactionId": "322260",
+    "unitsGenerated": "498.99",
+    "unitsConsumed": "252.61",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.45"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "243571",
+    "consumerId": "990856",
+    "transactionId": "508123",
+    "unitsGenerated": "125.91",
+    "unitsConsumed": "51.30",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.38"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "251490",
+    "consumerId": "195585",
+    "transactionId": "693986",
+    "unitsGenerated": "382.70",
+    "unitsConsumed": "78.71",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.07"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "259409",
+    "consumerId": "300314",
+    "transactionId": "879849",
+    "unitsGenerated": "429.48",
+    "unitsConsumed": "67.57",
+    "amountPayable": "0.00",
+    "ratePerKWh": "5.75"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "267328",
+    "consumerId": "405043",
+    "transactionId": "165712",
+    "unitsGenerated": "35.53",
+    "unitsConsumed": "218.99",
+    "amountPayable": "1942.84",
+    "ratePerKWh": "10.59"
+  },
+  {
+    "billDate": "16/10/2026",
+    "billId": "275247",
+    "consumerId": "509772",
+    "transactionId": "351575",
+    "unitsGenerated": "47.22",
+    "unitsConsumed": "64.99",
+    "amountPayable": "142.34",
+    "ratePerKWh": "8.01"
+  },
+  {
+    "billDate": "05/10/2026",
+    "billId": "283166",
+    "consumerId": "614501",
+    "transactionId": "537438",
+    "unitsGenerated": "95.44",
+    "unitsConsumed": "231.83",
+    "amountPayable": "761.06",
+    "ratePerKWh": "5.58"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "291085",
+    "consumerId": "719230",
+    "transactionId": "723301",
+    "unitsGenerated": "125.22",
+    "unitsConsumed": "57.02",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.32"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "299004",
+    "consumerId": "823959",
+    "transactionId": "909164",
+    "unitsGenerated": "123.37",
+    "unitsConsumed": "313.41",
+    "amountPayable": "1288.47",
+    "ratePerKWh": "6.78"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "306923",
+    "consumerId": "928688",
+    "transactionId": "195027",
+    "unitsGenerated": "438.02",
+    "unitsConsumed": "162.17",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.05"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "314842",
+    "consumerId": "133417",
+    "transactionId": "380890",
+    "unitsGenerated": "353.75",
+    "unitsConsumed": "325.74",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.12"
+  },
+  {
+    "billDate": "25/10/2026",
+    "billId": "322761",
+    "consumerId": "238146",
+    "transactionId": "566753",
+    "unitsGenerated": "255.92",
+    "unitsConsumed": "73.97",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.04"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "330680",
+    "consumerId": "342875",
+    "transactionId": "752616",
+    "unitsGenerated": "16.09",
+    "unitsConsumed": "50.49",
+    "amountPayable": "360.86",
+    "ratePerKWh": "10.49"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "338599",
+    "consumerId": "447604",
+    "transactionId": "938479",
+    "unitsGenerated": "279.85",
+    "unitsConsumed": "400.59",
+    "amountPayable": "822.24",
+    "ratePerKWh": "6.81"
+  },
+  {
+    "billDate": "13/10/2026",
+    "billId": "346518",
+    "consumerId": "552333",
+    "transactionId": "224342",
+    "unitsGenerated": "272.29",
+    "unitsConsumed": "315.82",
+    "amountPayable": "408.75",
+    "ratePerKWh": "9.39"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "354437",
+    "consumerId": "657062",
+    "transactionId": "410205",
+    "unitsGenerated": "457.78",
+    "unitsConsumed": "153.39",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.67"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "362356",
+    "consumerId": "761791",
+    "transactionId": "596068",
+    "unitsGenerated": "317.12",
+    "unitsConsumed": "415.60",
+    "amountPayable": "794.73",
+    "ratePerKWh": "8.07"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "370275",
+    "consumerId": "866520",
+    "transactionId": "781931",
+    "unitsGenerated": "491.86",
+    "unitsConsumed": "234.33",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.73"
+  },
+  {
+    "billDate": "18/10/2026",
+    "billId": "378194",
+    "consumerId": "971249",
+    "transactionId": "967794",
+    "unitsGenerated": "156.81",
+    "unitsConsumed": "157.67",
+    "amountPayable": "10.12",
+    "ratePerKWh": "11.77"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "386113",
+    "consumerId": "175978",
+    "transactionId": "253657",
+    "unitsGenerated": "156.20",
+    "unitsConsumed": "190.28",
+    "amountPayable": "374.20",
+    "ratePerKWh": "10.98"
+  },
+  {
+    "billDate": "14/10/2026",
+    "billId": "394032",
+    "consumerId": "280707",
+    "transactionId": "439520",
+    "unitsGenerated": "5.71",
+    "unitsConsumed": "396.23",
+    "amountPayable": "3514.68",
+    "ratePerKWh": "9.00"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "401951",
+    "consumerId": "385436",
+    "transactionId": "625383",
+    "unitsGenerated": "309.26",
+    "unitsConsumed": "310.28",
+    "amountPayable": "6.17",
+    "ratePerKWh": "6.05"
+  },
+  {
+    "billDate": "04/10/2026",
+    "billId": "409870",
+    "consumerId": "490165",
+    "transactionId": "811246",
+    "unitsGenerated": "407.60",
+    "unitsConsumed": "421.21",
+    "amountPayable": "161.28",
+    "ratePerKWh": "11.85"
+  },
+  {
+    "billDate": "20/10/2026",
+    "billId": "417789",
+    "consumerId": "594894",
+    "transactionId": "997109",
+    "unitsGenerated": "416.83",
+    "unitsConsumed": "94.00",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.68"
+  },
+  {
+    "billDate": "18/10/2026",
+    "billId": "425708",
+    "consumerId": "699623",
+    "transactionId": "282972",
+    "unitsGenerated": "440.90",
+    "unitsConsumed": "234.96",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.24"
+  },
+  {
+    "billDate": "24/10/2026",
+    "billId": "433627",
+    "consumerId": "804352",
+    "transactionId": "468835",
+    "unitsGenerated": "36.75",
+    "unitsConsumed": "315.91",
+    "amountPayable": "3056.80",
+    "ratePerKWh": "10.95"
+  },
+  {
+    "billDate": "03/10/2026",
+    "billId": "441546",
+    "consumerId": "909081",
+    "transactionId": "654698",
+    "unitsGenerated": "110.12",
+    "unitsConsumed": "249.37",
+    "amountPayable": "990.07",
+    "ratePerKWh": "7.11"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "449465",
+    "consumerId": "113810",
+    "transactionId": "840561",
+    "unitsGenerated": "307.54",
+    "unitsConsumed": "347.62",
+    "amountPayable": "369.54",
+    "ratePerKWh": "9.22"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "457384",
+    "consumerId": "218539",
+    "transactionId": "126424",
+    "unitsGenerated": "185.50",
+    "unitsConsumed": "439.70",
+    "amountPayable": "1296.42",
+    "ratePerKWh": "5.10"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "465303",
+    "consumerId": "323268",
+    "transactionId": "312287",
+    "unitsGenerated": "163.35",
+    "unitsConsumed": "111.66",
+    "amountPayable": "0.00",
+    "ratePerKWh": "11.30"
+  },
+  {
+    "billDate": "09/10/2026",
+    "billId": "473222",
+    "consumerId": "427997",
+    "transactionId": "498150",
+    "unitsGenerated": "459.85",
+    "unitsConsumed": "107.94",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.02"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "481141",
+    "consumerId": "532726",
+    "transactionId": "684013",
+    "unitsGenerated": "498.47",
+    "unitsConsumed": "124.33",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.26"
+  },
+  {
+    "billDate": "06/10/2026",
+    "billId": "489060",
+    "consumerId": "637455",
+    "transactionId": "869876",
+    "unitsGenerated": "304.93",
+    "unitsConsumed": "364.25",
+    "amountPayable": "592.61",
+    "ratePerKWh": "9.99"
+  },
+  {
+    "billDate": "26/10/2026",
+    "billId": "496979",
+    "consumerId": "742184",
+    "transactionId": "155739",
+    "unitsGenerated": "134.61",
+    "unitsConsumed": "332.71",
+    "amountPayable": "1566.97",
+    "ratePerKWh": "7.91"
+  },
+  {
+    "billDate": "29/10/2026",
+    "billId": "504898",
+    "consumerId": "846913",
+    "transactionId": "341602",
+    "unitsGenerated": "297.80",
+    "unitsConsumed": "56.86",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.64"
+  },
+  {
+    "billDate": "02/10/2026",
+    "billId": "512817",
+    "consumerId": "951642",
+    "transactionId": "527465",
+    "unitsGenerated": "196.65",
+    "unitsConsumed": "71.52",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.24"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "520736",
+    "consumerId": "156371",
+    "transactionId": "713328",
+    "unitsGenerated": "458.32",
+    "unitsConsumed": "346.63",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.88"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "528655",
+    "consumerId": "261100",
+    "transactionId": "899191",
+    "unitsGenerated": "309.33",
+    "unitsConsumed": "156.31",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.56"
+  },
+  {
+    "billDate": "19/10/2026",
+    "billId": "536574",
+    "consumerId": "365829",
+    "transactionId": "185054",
+    "unitsGenerated": "301.13",
+    "unitsConsumed": "328.34",
+    "amountPayable": "286.52",
+    "ratePerKWh": "10.53"
+  },
+  {
+    "billDate": "12/10/2026",
+    "billId": "544493",
+    "consumerId": "470558",
+    "transactionId": "370917",
+    "unitsGenerated": "108.22",
+    "unitsConsumed": "365.57",
+    "amountPayable": "1961.01",
+    "ratePerKWh": "7.62"
+  },
+  {
+    "billDate": "08/10/2026",
+    "billId": "552412",
+    "consumerId": "575287",
+    "transactionId": "556780",
+    "unitsGenerated": "281.41",
+    "unitsConsumed": "259.90",
+    "amountPayable": "0.00",
+    "ratePerKWh": "10.56"
+  },
+  {
+    "billDate": "07/10/2026",
+    "billId": "560331",
+    "consumerId": "680016",
+    "transactionId": "742643",
+    "unitsGenerated": "448.40",
+    "unitsConsumed": "380.09",
+    "amountPayable": "0.00",
+    "ratePerKWh": "7.60"
+  },
+  {
+    "billDate": "31/10/2026",
+    "billId": "568250",
+    "consumerId": "784745",
+    "transactionId": "928506",
+    "unitsGenerated": "334.15",
+    "unitsConsumed": "67.06",
+    "amountPayable": "0.00",
+    "ratePerKWh": "8.41"
+  },
+  {
+    "billDate": "01/10/2026",
+    "billId": "576169",
+    "consumerId": "889474",
+    "transactionId": "214369",
+    "unitsGenerated": "499.09",
+    "unitsConsumed": "378.90",
+    "amountPayable": "0.00",
+    "ratePerKWh": "6.80"
+  },
+  {
+    "billDate": "30/10/2026",
+    "billId": "584088",
+    "consumerId": "994203",
+    "transactionId": "400232",
+    "unitsGenerated": "22.72",
+    "unitsConsumed": "428.44",
+    "amountPayable": "4608.98",
+    "ratePerKWh": "11.36"
+  },
+  {
+    "billDate": "27/10/2026",
+    "billId": "592007",
+    "consumerId": "198932",
+    "transactionId": "586095",
+    "unitsGenerated": "369.64",
+    "unitsConsumed": "146.65",
+    "amountPayable": "0.00",
+    "ratePerKWh": "9.79"
+  },
+  {
+    "billDate": "17/10/2026",
+    "billId": "599926",
+    "consumerId": "303661",
+    "transactionId": "771958",
+    "unitsGenerated": "215.42",
+    "unitsConsumed": "316.41",
+    "amountPayable": "878.61",
+    "ratePerKWh": "8.70"
+  }
+]

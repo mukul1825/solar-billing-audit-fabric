@@ -1,0 +1,25 @@
+{
+  "mode": "execute",
+  "startBatch": 22,
+  "endBatch": 22,
+  "startedAt": "2026-10-24T21:12:49.377768",
+  "results": [
+    {
+      "batch": 22,
+      "expected": 250,
+      "alreadyPresentBefore": 0,
+      "missingBefore": 250,
+      "queryErrorsBefore": 0,
+      "submitted": 250,
+      "verifiedPresentAfter": 250,
+      "missingAfter": 0,
+      "queryErrorsAfter": 0,
+      "status": "VERIFIED_COMPLETE",
+      "invokeExitCode": 0,
+      "invokeStdout": "",
+      "invokeStderr": "b279854d6f8910e6e11\\\"},{\\\"billDate\\\":\\\"06/10/2026\\\",\\\"billId\\\":\\\"425169\\\",\\\"consumerId\\\":\\\"348474\\\",\\\"transactionId\\\":\\\"287369\\\",\\\"unitsGenerated\\\":\\\"21.18\\\",\\\"unitsConsumed\\\":\\\"377.39\\\",\\\"amountPayable\\\":\\\"3006.41\\\",\\\"ratePerKWh\\\":\\\"8.44\\\",\\\"expectedAmountPayable\\\":\\\"3006.41\\\",\\\"auditStatus\\\":\\\"MATCH\\\",\\\"integrityHash\\\":\\\"c38ea92a9d13cf0604210bfd1835a33e7f573272e74512d8ea3eab3ba36bc7a6\\\",\\\"recordedAt\\\":\\\"1792876398\\\",\\\"fabricTransactionId\\\":\\\"61286dbcdc6093ac896784b5378c940a3c399eb1f2a2cb279854d6f8910e6e11\\\"},{\\\"billDate\\\":\\\"09/10/2026\\\",\\\"billId\\\":\\\"433088\\\",\\\"consumerId\\\":\\\"453203\\\",\\\"transactionId\\\":\\\"473232\\\",\\\"unitsGenerated\\\":\\\"1.29\\\",\\\"unitsConsumed\\\":\\\"139.56\\\",\\\"amountPayable\\\":\\\"1483.64\\\",\\\"ratePerKWh\\\":\\\"10.73\\\",\\\"expectedAmountPayable\\\":\\\"1483.64\\\",\\\"auditStatus\\\":\\\"MATCH\\\",\\\"integrityHash\\\":\\\"65cc229180e9c13844ef53ba0b9d11d1b316c0c2a1e5d156fecde37ae2a3eb4f\\\",\\\"recordedAt\\\":\\\"1792876398\\\",\\\"fabricTransactionId\\\":\\\"61286dbcdc6093ac896784b5378c940a3c399eb1f2a2cb279854d6f8910e6e11\\\"},{\\\"billDate\\\":\\\"16/10/2026\\\",\\\"billId\\\":\\\"441007\\\",\\\"consumerId\\\":\\\"557932\\\",\\\"transactionId\\\":\\\"659095\\\",\\\"unitsGenerated\\\":\\\"228.35\\\",\\\"unitsConsumed\\\":\\\"367.20\\\",\\\"amountPayable\\\":\\\"1617.60\\\",\\\"ratePerKWh\\\":\\\"11.65\\\",\\\"expectedAmountPayable\\\":\\\"1617.60\\\",\\\"auditStatus\\\":\\\"MATCH\\\",\\\"integrityHash\\\":\\\"736ca4672a3debd3454b64e424053fc4ab4cab8d80bc1e09bd44c187edaffa14\\\",\\\"recordedAt\\\":\\\"1792876398\\\",\\\"fabricTransactionId\\\":\\\"61286dbcdc6093ac896784b5378c940a3c399eb1f2a2cb279854d6f8910e6e11\\\"},{\\\"billDate\\\":\\\"03/10/2026\\\",\\\"billId\\\":\\\"448926\\\",\\\"consumerId\\\":\\\"662661\\\",\\\"transactionId\\\":\\\"844958\\\",\\\"unitsGenerated\\\":\\\"125.17\\\",\\\"unitsConsumed\\\":\\\"264.71\\\",\\\"amountPayable\\\":\\\"913.99\\\",\\\"ratePerKWh\\\":\\\"6.55\\\",\\\"expectedAmountPayable\\\":\\\"913.99\\\",\\\"auditStatus\\\":\\\"MATCH\\\",\\\"integrityHash\\\":\\\"8b70ad7690c87e2bfd292e6cfa6495df4a818dcc6c8125b8af2d06dc2173cecd\\\",\\\"recordedAt\\\":\\\"1792876398\\\",\\\"fabricTransactionId\\\":\\\"61286dbcdc6093ac896784b5378c940a3c399eb1f2a2cb279854d6f8910e6e11\\\"}]}\" \n"
+    }
+  ],
+  "updatedAt": "2026-10-24T21:13:47.087149",
+  "finishedAt": "2026-10-24T21:13:47.087136"
+}

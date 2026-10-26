@@ -1,0 +1,16 @@
+{
+  "started_at": "20261024_100917",
+  "results": [
+    {
+      "batch": 6,
+      "count": 250,
+      "first_id": "830095",
+      "last_id": "101926",
+      "exit_code": 1,
+      "elapsed_seconds": 0.11
+    }
+  ],
+  "successful_invocations": 0,
+  "requested_batches": 31,
+  "completed_all": false
+}

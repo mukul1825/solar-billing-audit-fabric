@@ -1,0 +1,62 @@
+{
+  "startedAt": "2026-10-24T19:16:50.166254",
+  "batchDirectory": "/home/system/fabric-project/solar-billing-audit-fabric/dataset/batches_40000_new_only_size250",
+  "expectedBatches": 160,
+  "expectedRecords": 40000,
+  "dryRun": false,
+  "status": "stopped_with_error",
+  "batches": [
+    {
+      "batch": 1,
+      "file": "batch_001.json",
+      "expected": 250,
+      "presentAfterVerification": 250,
+      "missingAfterVerification": 0,
+      "queryErrors": 0,
+      "newlySubmitted": 0,
+      "status": "verified"
+    },
+    {
+      "batch": 2,
+      "file": "batch_002.json",
+      "expected": 250,
+      "presentAfterVerification": 250,
+      "missingAfterVerification": 0,
+      "queryErrors": 0,
+      "newlySubmitted": 0,
+      "status": "verified"
+    },
+    {
+      "batch": 3,
+      "file": "batch_003.json",
+      "expected": 250,
+      "presentAfterVerification": 250,
+      "missingAfterVerification": 0,
+      "queryErrors": 0,
+      "newlySubmitted": 0,
+      "status": "verified"
+    },
+    {
+      "batch": 4,
+      "file": "batch_004.json",
+      "expected": 250,
+      "presentAfterVerification": 250,
+      "missingAfterVerification": 0,
+      "queryErrors": 0,
+      "newlySubmitted": 0,
+      "status": "verified"
+    },
+    {
+      "batch": 5,
+      "file": "batch_005.json",
+      "expected": 250,
+      "presentAfterVerification": 250,
+      "missingAfterVerification": 0,
+      "queryErrors": 0,
+      "newlySubmitted": 0,
+      "status": "verified"
+    }
+  ],
+  "error": "29 bills remain missing after one attempt in batch_006.json. Stopped without retrying. First missing IDs: 101095, 109014, 116933, 124852, 132771, 140690, 148609, 156528, 164447, 172366",
+  "stoppedAt": "2026-10-24T19:19:00.120698"
+}

@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "finished_at_utc": "2026-10-25T14:04:27.883806+00:00",
+  "bills_completed": 50006,
+  "queries_written": 300036,
+  "json_file": "/home/system/fabric-project/solar-billing-audit-fabric/test-reports/solarbill_read_benchmark_50006_ledger_bills.json",
+  "csv_file": "/home/system/fabric-project/solar-billing-audit-fabric/benchmark/read_results_50006_ledger_bills.csv"
+}

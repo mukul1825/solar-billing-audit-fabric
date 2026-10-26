@@ -1,0 +1,32 @@
+{
+  "started_at_utc": "2026-10-24T10:18:27.346390+00:00",
+  "finished_at_utc": "2026-10-24T11:47:48.933450+00:00",
+  "dataset_file": "/home/system/fabric-project/solar-billing-audit-fabric/dataset/sampleBills_10000.json",
+  "dataset_bills_tested": 10000,
+  "repeats_per_function_per_bill": 3,
+  "ledger_size_during_test": 10006,
+  "total_measured_queries": 60000,
+  "measurement": "CLI-observed query latency including process startup; individual ReadBill and VerifyBill calls",
+  "results": {
+    "ReadBill": {
+      "total_calls": 30000,
+      "successful_calls": 30000,
+      "failed_calls": 0,
+      "failure_rate_percent": 0.0,
+      "mean_ms": 89.143,
+      "median_ms": 83.939,
+      "p95_ms": 108.291,
+      "throughput_successful_calls_per_second": 11.218
+    },
+    "VerifyBill": {
+      "total_calls": 30000,
+      "successful_calls": 30000,
+      "failed_calls": 0,
+      "failure_rate_percent": 0.0,
+      "mean_ms": 89.218,
+      "median_ms": 84.01,
+      "p95_ms": 108.751,
+      "throughput_successful_calls_per_second": 11.209
+    }
+  }
+}
