@@ -1,0 +1,17 @@
+{
+  "startedAt": "2026-10-28T08-58-48-336Z",
+  "completedAt": "2026-10-28T09:05:12.516Z",
+  "datasetPath": "/home/system/fabric-project/solar-billing-audit-fabric/dataset/uploaded_datasets/sampleBills_100000.json",
+  "datasetRecords": 100000,
+  "uniqueBillIds": 100000,
+  "concurrency": 5,
+  "completed": 100000,
+  "passed": 100000,
+  "formulaMismatches": 0,
+  "hashMismatches": 0,
+  "statusMismatches": 0,
+  "idMismatches": 0,
+  "queryErrors": 0,
+  "overallStatus": "PASS",
+  "csvReport": "/home/system/fabric-project/solar-billing-audit-fabric/test-reports/gateway_integrity_audit_100000_2026-10-28T08-58-48-336Z.csv"
+}
